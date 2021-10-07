@@ -1,3 +1,5 @@
+2021년 2학기 수강한 정보프로그래밍 프로젝트를 모아놓은 공간입니다.
+
 # Advanced-Programming-Project
 2021-2 Advanced Programming Python Project
 
