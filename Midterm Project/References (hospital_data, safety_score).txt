@@ -1,0 +1,5 @@
+@ CSV data source for the seoul hospital coordinates
+http://data.seoul.go.kr/dataList/OA-20338/S/1/datasetView.do;jsessionid=634E40F705F03ECB2507052805E90B1E.new_portal-svr-11
+
+@ Data source for the safety score
+https://www.hira.or.kr/main.do
