@@ -11,3 +11,11 @@ Paper: Safe distance-based vehicle routing : Medical waste collection case study
 - Applying the methodology used in this study to Seoul hospitals.
 - Finding optimal solutions, to minimize the sum of distance, and maximize the sum of safety score of Seoul hospitals
 - Using membership function based on fuzzy theory that can find optimal solution of two objective functions.
+
+## Final Project
+Paper: A study on the efficiency of the estimation models of COVID-19
+
+(url: https://www.sciencedirect.com/science/article/pii/S2211379721004952)
+
+- Applying the methodology used in this study to Korean data.
+- Finding SIR and SEIR model which are fitted in infectious population, susceptible and recovered population of Covid19 in Korea.
